@@ -31,3 +31,12 @@ set noshowmode
 " Associate .rdlevel with json 
 au BufNewFile,BufRead *.rdlevel setlocal ft=json
 
+
+" python-mode settings
+let g:pymode = 1
+let g:pymode_trim_whitespaces = 1
+let g:pymode_options_max_line_length = 120
+let g:pymode_options_colorcolumn = 1
+let g:pymode_virtualenv = 1
+let g:pymode_run = 1
+
