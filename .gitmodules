@@ -1,0 +1,9 @@
+[submodule ".vim/pack/dist/start/lightline.vim"]
+	path = .vim/pack/dist/start/lightline.vim
+	url = https://github.com/itchyny/lightline.vim
+[submodule ".vim/pack/dist/start/vim-cutlass"]
+	path = .vim/pack/dist/start/vim-cutlass
+	url = https://github.com/svermeulen/vim-cutlass
+[submodule ".vim/pack/dist/start/vim-toml"]
+	path = .vim/pack/dist/start/vim-toml
+	url = https://github.com/cespare/vim-toml
